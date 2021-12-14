@@ -1,6 +1,6 @@
 #!/bin/bash
-# written Yusuke nagano 
+# written by Yusuke nagano
 
-echo hoge
+echo hoge      
 echo hoge
 echo hoge
